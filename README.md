@@ -1,1 +1,2 @@
-I'm Eduard, I know web-technologies ( JavaScript, HTML, CSS ) and Python. I'm learning Rust.
+I'm Eduard. I know web-technologies ( HTML, CSS, JavaScript ), Python and
+Rust - its syntax, but I'm not familiar with its crates(gtk, rand, other), only Tauri.
